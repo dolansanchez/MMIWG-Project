@@ -1,9 +1,11 @@
-# MMIWG-Project
+MMIWG-Project
 A repository for code used in my Capstone Project at the University of Arizona iSchool. 
-This project analyzes a corpus of Tweets that were collected using Twarc, a command line tool and Python library for archiving Twitter JSON data: https://github.com/DocNow/twarc
+The project analyzes a corpus of Tweets related to the movement behind Missing and Murdered Indigenous Women and Girls, #MMIWG.
+
+The tweets were collected using Twarc, a command line tool and Python library for archiving Twitter JSON data: https://github.com/DocNow/twarc
 
 Getting Started
-Go to https://github.com/DocNow/twarc or https://www.tweepy.org/ to learn how to collect Twitter data. Or, create a .txt file of any corpus you would like to analyze!
+Go to https://github.com/DocNow/twarc or https://www.tweepy.org/ to learn how to collect Twitter data. Or, create a .txt file of any corpus you would like to analyze for affect.
 
 How It Works
 Load data files - a lexicon of your choice in .csv format and a .txt file containing the corpus you want to analyze
