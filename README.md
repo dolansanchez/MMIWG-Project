@@ -1,7 +1,6 @@
 MMIWG-Project:
-A repository for code used in my Capstone Project at the University of Arizona iSchool. 
+A repository for code used in my Capstone Project at the University of Arizona iSchool. This code was written to clean Twitter data and run a simple dictionary based affect analysis as part of my Capstone Project at UA iSchool. 
 The project analyzes a corpus of Tweets related to the movement behind Missing and Murdered Indigenous Women and Girls, #MMIWG.
-
 The tweets were collected using Twarc, a command line tool and Python library for archiving Twitter JSON data: https://github.com/DocNow/twarc
 
 Getting Started:
