@@ -21,6 +21,8 @@ Acknowledgements and Sources:
 The base code is derived from Neal Caren's workshop on Word Lists and Sentiment Analysis, May 2019
 https://nealcaren.org/lessons/wordlists/
 
+The MMIWG lexicon used in this analysis was created by myself, Dr. Lindsay Montgomery of the School of Anthropology at UA, and Anthropology PhD student Jennifer Byram.
+
 Links for additional inspiration and resources:
 https://machinelearningmastery.com/clean-text-machine-learning-python/
 https://www.geeksforgeeks.org/python-count-occurrences-of-each-word-in-given-text-file-using-dictionary/
