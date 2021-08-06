@@ -1,7 +1,5 @@
 MMIWG-Project:
-A repository for code used in my Capstone Project at the University of Arizona iSchool. The project analyzes a corpus of Tweets related to the movement behind Missing and Murdered Indigenous Women and Girls, #MMIWG. The tweets were collected from Twitter's Premium Search API using twarc, a command line tool and Python library for archiving Twitter JSON data: https://github.com/DocNow/twarc
-
-The dataset is avaialable as tweet IDs in the file mmiwg-tweet-ids.txt. The tweet IDs can be hydrated using twarc's Hydrator: https://github.com/DocNow/hydrator Learn about why: https://medium.com/on-archivy/on-forgetting-e01a2b95272#.lrkof12q5
+A repository for code used in my Capstone Project at the University of Arizona iSchool. The project analyzes a corpus of Tweets related to the movement behind Missing and Murdered Indigenous Women and Girls, #MMIWG. The tweets were collected from Twitter's Premium Search API using twarc, a command line tool and Python library for archiving Twitter JSON data: https://github.com/DocNow/twarc The dataset of collected tweets is avaialable as tweet IDs in the file mmiwg-tweet-ids.txt. The tweet IDs can be hydrated using twarc's Hydrator: https://github.com/DocNow/hydrator Learn about why: https://medium.com/on-archivy/on-forgetting-e01a2b95272#.lrkof12q5
 
 This code was written to clean Twitter data and run a simple dictionary based affect analysis.
 
